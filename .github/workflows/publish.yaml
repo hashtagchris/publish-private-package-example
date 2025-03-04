@@ -29,6 +29,6 @@ jobs:
       - name: Install dependencies and publish
         run: |
           npm ci
-          npm publish
+          npm publish --access restricted
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
