@@ -1,0 +1,12 @@
+{
+  "name": "@hashtagchris/publish-private-package-example",
+  "version": "1.0.0",
+  "description": "Install private dependencies and publish a private package, as straightforward as possible",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
